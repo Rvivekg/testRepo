@@ -1,1 +1,1 @@
-https://www.freakyjolly.com/angular-material-how-to-install-angular-material-in-angular-project/
+https://github.com/medaimane/angular7-material-sample-project/blob/master/src/app/app-material/app-material.module.ts
